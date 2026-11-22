@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-22
+
+- [BTC bounces back above $60,000 after touching a two-year low](./posts/2026-11-22/01-btc-update.md)
+
 ### 2026-11-21
 
 - [BTC breaks below $60,000 — lowest since early July](./posts/2026-11-21/01-btc-update.md)
