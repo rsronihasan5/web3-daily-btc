@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-23
+
+- [BTC holds above $60,000 for a second day — the rebound is real, the trend is not](./posts/2026-11-23/01-btc-update.md)
+
 ### 2026-11-22
 
 - [BTC bounces back above $60,000 after touching a two-year low](./posts/2026-11-22/01-btc-update.md)
