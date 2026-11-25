@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-25
+
+- [BTC slips below $60,000 again — tariffs and strong US data hit risk appetite](./posts/2026-11-25/01-btc-update.md)
+
 ### 2026-11-24
 
 - [BTC drifts around $61,000 — a flat day inside a fearful month](./posts/2026-11-24/01-btc-update.md)
