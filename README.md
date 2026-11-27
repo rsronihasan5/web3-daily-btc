@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-27
+
+- [BTC holds above $61,000 — the rebound stretches into a second day](./posts/2026-11-27/01-btc-update.md)
+
 ### 2026-11-26
 
 - [BTC bounces back above $60,000 — tariff scare fades, but fear is still extreme](./posts/2026-11-26/01-btc-update.md)
